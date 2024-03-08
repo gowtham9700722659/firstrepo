@@ -1,3 +1,7 @@
 hello this is my 1st file
+<<<<<<< HEAD
 
 git commands are not that much easy
+=======
+i would like to make some chamges in it
+>>>>>>> 521831efa3337b943f0dddac76f17190c0781e25
